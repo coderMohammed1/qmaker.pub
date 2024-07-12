@@ -1,0 +1,64 @@
+input[type="file"] {
+    display: none;
+    
+}
+.custom-file-upload {
+    /* border: 1px solid #ccc; */
+    /* display: inline-block; */
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    cursor: pointer;
+    margin-left: 5px;
+}
+body{
+    background-color: rgb(240, 235, 248);
+}
+ #alert{
+    text-align: center !important;
+}
+
+.qla{
+    color: red;
+}
+
+#sh{
+    text-align: center !important;
+    border: solid red 1px;
+    width: 50% !important;
+    margin: auto;
+}
+
+#cont{
+    background-color: white;
+    /* width: 40% !important; */
+}
+
+.qs{
+    width: 90% !important;
+}
+
+.tex2{
+    width: 94% !important;
+    max-height: 300px;
+    resize: none;
+}
+#add{
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 45px;
+}
+
+#txt{
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 30px;
+}
+
+.flexer{
+    display: flex !important;
+}
