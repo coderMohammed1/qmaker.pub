@@ -7,3 +7,4 @@
 1- Adding csrf protection
 2- anti bruteforcing systems
 3- better session managment systems
+4- refactoring some files
